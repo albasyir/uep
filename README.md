@@ -1,13 +1,13 @@
 # UEP — Unleashed Exagonal Protocol
 
->[!WARNING]
+> [!WARNING]
 > This maybe on pendding development since i have no time
 
 [![Run Tests and Generate Coverage](https://github.com/albasyir/uep/actions/workflows/test.yml/badge.svg)](https://github.com/albasyir/uep/actions/workflows/test.yml)
 
 **UEP** is a modern platform abstraction layer designed to unify HTTP, Realtime, and Messaging systems under one powerful protocol-inspired architecture.
 
-Think: Express + Fastify + Socket.IO + RabbitMQ... all in one plug-and-play interface — portable, interceptable, and 100% modular.
+Think: Express + Fastify + Socket.IO + RabbitMQ... all in one plug-and-play interface just portable, interceptable, and 100% modular.
 
 
 ## ✨ Why "UEP"? What is *Exagonal*?
@@ -16,8 +16,8 @@ UEP stands for **Unleashed Exagonal Protocol**.
 
 Unlike the traditional "Hexagonal Architecture" which focuses on Ports and Adapters, **Exagonal** is our evolved take — where protocols, interceptors, and platform behavior are first-class citizens.
 
->[!INFO]
-> Not just Hexagonal. It's **Exagonal** — a boundary-less, scalable, plug-aware system that embraces both structure and freedom.
+> [!NOTE]
+> Not just Hexagonal. It's **Exagonal**, a boundary-less, scalable, plug-aware system that embraces both structure and freedom.
 
 We intentionally dropped the "H" to show:  
 - it's **not a copy**,  
