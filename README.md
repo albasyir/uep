@@ -1,5 +1,8 @@
 # UEP — Unleashed Exagonal Protocol
 
+>[!WARNING]
+> This maybe on pendding development since i have no time
+
 [![Run Tests and Generate Coverage](https://github.com/albasyir/uep/actions/workflows/test.yml/badge.svg)](https://github.com/albasyir/uep/actions/workflows/test.yml)
 
 **UEP** is a modern platform abstraction layer designed to unify HTTP, Realtime, and Messaging systems under one powerful protocol-inspired architecture.
